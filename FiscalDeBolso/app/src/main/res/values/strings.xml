@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FiscalDeBolso</string>
+    <string name="bem_vindo">Bem vindo, ao fiscal de bolso</string>
+    <string name="relatar_denunciar">Relatar/Denunciar</string>
+    <string name="visualizar_denuncias">Visualizar denúncias/relatos</string>
+    <string name="Ver_estatisticas">Ver estatísticas</string>
+    <string name="nome">Nome</string>
+    <string name="email">Email</string>
+    <string name="autenticacao">Autenticação:</string>
+    <string name="entrar">Entrar</string>
+    <string name="title_activity_tela_login">Tela_login</string>
+</resources>
