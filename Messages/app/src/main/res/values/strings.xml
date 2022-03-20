@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MessagesEC</string>
+    <string name="insert_a_message">Insert a message here...</string>
+    <string name="send">Send</string>
+</resources>

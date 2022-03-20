@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MessagesEC</string>
+    <string name="insert_a_message">Insira uma mensagem aqui...</string>
+    <string name="send">Enviar</string>
+</resources>
