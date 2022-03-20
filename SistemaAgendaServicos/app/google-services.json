@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "78377341880",
+    "firebase_url": "https://sistema-agenda-servicos.firebaseio.com",
+    "project_id": "sistema-agenda-servicos",
+    "storage_bucket": "sistema-agenda-servicos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78377341880:android:1fef3568524d3e8c86354d",
+        "android_client_info": {
+          "package_name": "com.example.sistemaagendaservicos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78377341880-gb2f1lk4dnktk8l0p6ht5v1r8lvs29u1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sistemaagendaservicos",
+            "certificate_hash": "c5fa2abbf4fa7bc3cb6dcb30ea7a0b3b08a7b984"
+          }
+        },
+        {
+          "client_id": "78377341880-a894i0iah8lrsiuigcoq8dq566qod28q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCafzuTmJc4b5t7UgT1XbN4C86mQ_9MJpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78377341880-a894i0iah8lrsiuigcoq8dq566qod28q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
