@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PizzariaDonMortandello</string>
+    <string name="Cadastrar_pizza">Cadastrar Pizza</string>
+    <string name="cardapio">Cardápio</string>
+    <string name="salvar">Salvar</string>
+    <string name="insira_o_nome">Insira o nome da pizza</string>
+    <string name="preco">Preço</string>
+    <string name="descreva_ingrediente">Descreva os ingredientes da pizza</string>
+</resources>

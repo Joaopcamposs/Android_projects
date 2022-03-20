@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PizzariaDonMortandello</string>
+    <string name="Cadastrar_pizza">Registrar Pizza</string>
+    <string name="cardapio">Menu</string>
+    <string name="salvar">Guardar</string>
+    <string name="preco">Precio</string>
+    <string name="insira_o_nome">Insira el nombre de la pizza</string>
+    <string name="descreva_ingrediente">Describa los ingredientes da la pizza</string>
+</resources>
