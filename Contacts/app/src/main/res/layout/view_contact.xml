@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:background="@drawable/style_view_contact">
+
+        <TextView
+            android:id="@+id/txtNameInfo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:padding="20dp"
+            android:text="Fulano da Silva"
+            android:textSize="24sp" />
+
+        <ImageView
+            android:id="@+id/imgEye"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="4"
+            android:scaleType="center"
+            android:background="@drawable/style_view_contact"
+            app:srcCompat="@drawable/ic_eye" />
+    </LinearLayout>
+
+    <!-- android:autoLink="phone" -->
+    <TextView
+        android:id="@+id/txtPhoneInfo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/style_phone_info"
+        android:padding="10dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginBottom="10dp"
+        android:text="(34) 9 9645 3213 "
+        android:textAlignment="center"
+        android:textSize="18sp"
+        android:visibility="gone" />
+
+</LinearLayout>
